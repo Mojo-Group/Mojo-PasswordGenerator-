@@ -24,4 +24,7 @@ This is a simple Password Generator application written in C#. The program gener
 5. Enter your username and the name of the site/app for which the password is being generated.
 6. The generated password will be displayed and saved to a file named `passwords.txt` in your Documents folder.
 
-## Example
+## Check it
+- Open Source
+- You can expand app
+-Creator: Muhammad Noraeii
